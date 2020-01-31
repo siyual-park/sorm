@@ -1,0 +1,20 @@
+{
+  "name": "database-interface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdPark0723/database-interface.git"
+  },
+  "author": "Park Si-Yual",
+  "contributors": ["Su-Yong", "Park Si-Yual"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdPark0723/database-interface/issues"
+  },
+  "homepage": "https://github.com/kdPark0723/database-interface#readme"
+}
