@@ -1,5 +1,5 @@
 {
-  "name": "database-interface",
+  "name": "@su-yong/database-interface",
   "version": "1.0.0",
   "description": "This is a library used to integrate the different interfaces of NoSQL.",
   "main": "dist/database-interface.js",
