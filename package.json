@@ -1,8 +1,8 @@
 {
   "name": "database-interface",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This is a library used to integrate the different interfaces of NoSQL.",
+  "main": "dist/database-interface.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/kdPark0723/database-interface.git"
   },
-  "author": "Park Si-Yual",
-  "contributors": ["Su-Yong", "Park Si-Yual"],
+  "contributors": [
+    "Su-Yong <simssy2205@gmail.com> (https://github.com/Su-Yong)",
+    "Park Si-Yual <kdpark023@gmail.com> (https://github.com/kdPark0723)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kdPark0723/database-interface/issues"
