@@ -1,7 +1,7 @@
 {
-  "name": "@su-yong/database-interface",
-  "version": "1.0.1",
-  "description": "This is a library used to integrate the different interfaces of NoSQL.",
+  "name": "@acka/sorm",
+  "version": "1.1.0",
+  "description": "This is an interface library used to integrate the different interfaces of NoSQL.",
   "main": "dist/database-interface.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

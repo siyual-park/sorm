@@ -1,12 +1,12 @@
-# database-interface
-This is a library used to integrate the different interfaces of NoSQL.
+# @acka/sorm
+This is an interface library used to integrate the different interfaces of NoSQL.
 
 # Install
 ```
-npm install --save @su-yong/database-interface
+npm install --save @acka/sorm
 ```
 
 # Usage
 ```
-const { DataAccessor, DataAccessorFactory, Transaction } = require('@su-yong/database-interface')
+const { DataAccessor, DataAccessorFactory, Transaction } = require('@acka/sorm')
 ```
