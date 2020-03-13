@@ -7,6 +7,12 @@ npm install --save @acka/sorm
 ```
 
 # Usage
+when you use require
 ```
-const { DataAccessor, DataAccessorFactory, Transaction } = require('@acka/sorm')
+const { DataAccessorContext, DataAccessor, DataAccessorFactory, Transaction } = require('@acka/sorm')
+```
+
+when you use import
+```
+import { DataAccessorContext, DataAccessor, DataAccessorFactory, Transaction } from '@acka/sorm'
 ```
